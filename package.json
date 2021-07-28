@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-pruebas",
+  "version": "0.0.1",
+  "description": "Curso de Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./curso004/index.js",
+    "miTarea": "node index.js"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "adokhin",
+  "license": "ISC"
+}
